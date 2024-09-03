@@ -1,0 +1,8 @@
+prefix=/home/dias/exer_ws/devel
+
+Name: exer_pkg
+Description: Description of exer_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
